@@ -7,4 +7,5 @@ Spring java based configuration base
       ./gradlew clean cleanEclipse cleanIdea eclipse idea build
       
 2. Run:
-      ./gradlew run
+      ./gradlew jettyRun
+      gradle tasks -- list of tasks to run war on other containers
